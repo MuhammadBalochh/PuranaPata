@@ -1,0 +1,9 @@
+﻿argparse
+requests
+openpyxl
+fpdf
+python-dotenv
+difflib
+json
+hashlib
+time
